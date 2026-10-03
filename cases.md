@@ -718,21 +718,21 @@
 
 ### 英国
 
-- 博纳姆医生案件（Bonham’s Case） — *Bonham’s Case* `[原书页 367]`
-- 莱普顿中学阻止拆除案（Repton School Governors v. Repton Rural District Council） — *Repton School Governors v. Repton Rural District Council* `[原书页 503]`
-- 通讯总部（GCHQ）员工结社案（Council of Civil Service Unions v. Minister for the Civil Service） — *Council of Civil Service Unions v. Minister for the Civil Service* `[原书页 375]`
-- 温斯伯里案件（Associated Provincial Picture Houses Ltd v Wednesbury Corporation） — *Associated Provincial Picture Houses Ltd v Wednesbury Corporation* `[原书页 109,569]`
+- 博纳姆医生案件 — *Bonham’s Case* `[原书页 367]`
+- 莱普顿中学阻止拆除案 — *Repton School Governors v. Repton Rural District Council* `[原书页 503]`
+- 通讯总部 — *Council of Civil Service Unions v. Minister for the Civil Service* `[原书页 375]`
+- 温斯伯里案件 — *Associated Provincial Picture Houses Ltd v Wednesbury Corporation* `[原书页 109,569]`
 
 ### 美国
 
-- 谢弗朗案件（Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.） — *Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.* `[原书页 106]`
-- 朱莉安娜诉美国生态保护案（Juliana v. United States） — *Juliana v. United States* `[原书页 206]`
+- 谢弗朗案件 — *Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.* `[原书页 106]`
+- 朱莉安娜诉美国生态保护案 — *Juliana v. United States* `[原书页 206]`
 
 ### 法国
 
-- 布朗哥案件（Blanco case） — *Blanco case* `[原书页 126]`
+- 布朗哥案件 — *Blanco case* `[原书页 126]`
 
 ### 国际法院（仲裁）案例
 
-- 博斯曼转会案（Union Royale Belge des Sociétés de Football Association ASBL & others v. Jean-Marc Bosman） — *Union Royale Belge des Sociétés de Football Association ASBL & others v. Jean-Marc Bosman* `[原书页 112]`
+- 博斯曼转会案 — *Union Royale Belge des Sociétés de Football Association ASBL & others v. Jean-Marc Bosman* `[原书页 112]`
 - 德国海乐·西亚泽公司诉中华人民共和国投资仲裁案 `[原书页 34]`
