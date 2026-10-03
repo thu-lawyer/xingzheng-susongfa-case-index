@@ -246,18 +246,18 @@
   "category": "中国法院诉讼案例",
   "case_name": "陈建忠诉江苏省睢宁县政府土地行政登记案",
   "total_hits": 2,
-  "matched_title": "睢宁县古邳电影管理站与陈建忠土地行政登记纠纷上诉案",
-  "match_score": 0.482,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|陈镜钊诉国家知产局专利复审委案": {
   "category": "中国法院诉讼案例",
   "case_name": "陈镜钊诉国家知产局专利复审委案",
   "total_hits": 5,
-  "matched_title": "国家知识产权局专利复审委员会等与陈镜钊实用新型专利权无效行政纠纷上诉案",
-  "match_score": 0.562,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|陈莉诉徐州市泉山区城管局行政处罚案": {
@@ -867,9 +867,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "高某诉邳州市地方海事处、京杭运河江苏省邳州航道管理站不履行打捞沉船法定职责案",
   "total_hits": 0,
-  "matched_title": "某局、申某、高某行政登记一案",
-  "match_score": 0.12,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|高全（化名）诉中国矿业大学开除学籍案": {
@@ -1029,9 +1029,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "郭静秋诉北京市宣武区建委房屋拆迁许可案",
   "total_hits": 11,
-  "matched_title": "北京市宣武区建设委员会等与郭静秋行政许可纠纷上诉案——行政行为违反法律的立法精神亦构成违法",
-  "match_score": 0.442,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|山东省梁山县郭堂村委会诉梁山县政府、济宁市政府案": {
@@ -2001,9 +2001,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "李某某诉山东省广饶县广饶街道十九村委会案",
   "total_hits": 4,
-  "matched_title": "广饶县广饶街道十九村村民委员会与李某某给付上诉案",
-  "match_score": 0.57,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|李维贤诉国家知产局专利复审委案": {
@@ -2721,9 +2721,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "彭××诉厦门市公安局湖里分局收容教育案",
   "total_hits": 1,
-  "matched_title": "彭树球不服厦门市公安局湖里分局公安收容教育决定案",
-  "match_score": 0.762,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|广州市千金一公司诉江苏省南通市工商局行政处罚案": {
@@ -3117,9 +3117,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "孙阳兵诉深圳市市监局龙岗分局行政奖励案",
   "total_hits": 29,
-  "matched_title": "深圳市市场监督管理局龙岗分局与孙阳兵行政奖励纠纷案",
-  "match_score": 0.673,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|谭继铭承包经营户诉重庆市石柱土家族自治县政府承包经营权登记案": {
@@ -3171,9 +3171,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "宋伟诉河南省巩义市市监局不履行法定职责案",
   "total_hits": 6,
-  "matched_title": "宋伟忠诉北京市公安局丰台分局不履行法定职责案二审行政判决书",
-  "match_score": 0.496,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|孙桂花诉杭州市公安局交警支队江干交警大队系列处罚案": {
@@ -3495,9 +3495,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "王海诉北京市工商局不履行答复职责案",
   "total_hits": 57,
-  "matched_title": "王海萍诉四平市教育局不履行政府信息公开法定职责案",
-  "match_score": 0.44,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|王伟诉河南省平顶山市财贸学校不予录取案": {
@@ -4998,9 +4998,9 @@
   "category": "中国法院诉讼案例",
   "case_name": "赵C诉江西省鹰潭市公安局月湖分局要求变更姓名案",
   "total_hits": 3,
-  "matched_title": "鹰潭市公安局月湖分局与赵C民政行政登记纠纷上诉案",
-  "match_score": 0.46,
-  "has_fulltext": true,
+  "matched_title": null,
+  "match_score": 0.0,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|赵某某诉天津市大港区民政局撤销离婚证案": {
