@@ -104,7 +104,7 @@
   "total_hits": 0,
   "matched_title": "益普生药业公司诉国家知识产权局行政一审开庭公告",
   "match_score": 0.194,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|毕胜军诉浙江省兰溪市建设局行政处罚案": {
@@ -347,7 +347,7 @@
   "total_hits": 66,
   "matched_title": "陈吉云与南通市崇川区钟秀街道办事处行政国家赔偿开庭公告",
   "match_score": 0.221,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|陈培生诉长春市规划局行政许可案": {
@@ -563,7 +563,7 @@
   "total_hits": 88,
   "matched_title": "广州德发房产建设有限公司与广东省广州市地方税务局第一稽查局税务处理决定纠纷上诉案",
   "match_score": 0.673,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|德和电子工程公司诉江苏省连云港市质监局行政处罚案": {
@@ -572,7 +572,7 @@
   "total_hits": 2,
   "matched_title": "连云港市德和电子系统工程有限公司诉连云港质量技术监督局行政处罚案",
   "match_score": 0.651,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|克里斯蒂昂•迪奥尔香料公司诉国家工商总局商评委案": {
@@ -671,7 +671,7 @@
   "total_hits": 32,
   "matched_title": "上海东兆化工有限公司诉上海市工商行政管理局静安分局行政处罚案",
   "match_score": 0,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|董兰诉郑州市社保局养老保险待遇案": {
@@ -887,7 +887,7 @@
   "total_hits": 6,
   "matched_title": "高树仁不服安溪县财政局税收征收管理行政处罚决定案",
   "match_score": 0.494,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|高素华诉安徽省蚌埠市淮上区曹老集镇政府行政许可案": {
@@ -896,7 +896,7 @@
   "total_hits": 1,
   "matched_title": "高素华诉蚌埠市淮上区曹老集镇人民政府行政许可纠纷案",
   "match_score": 0.786,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|高云洪诉云南省南华县卫生局行政处罚案": {
@@ -1040,7 +1040,7 @@
   "total_hits": 1011,
   "matched_title": "光山县自然资源局、白雀园镇雷堂村委会非诉执行审查行政裁定书",
   "match_score": 0.252,
-  "has_fulltext": true,
+  "has_fulltext": false,
   "retry_kw": null
  },
  "中国法院诉讼案例|郭小兵诉江苏省政府案": {
