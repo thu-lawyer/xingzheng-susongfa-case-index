@@ -36,6 +36,7 @@
 | `data/judgments.jsonl` | **判决书全文**，一行一个案件（JSON Lines，约 6.4 MB） |
 | `data/pkulaw_results.json` | 全 635 案的检索元数据：命中数、最佳匹配标题、匹配分、是否取得全文、被否决的候选 |
 | `cases.md` | 书末《案例索引》全文，按原书分类与字母顺序 |
+| `cases/*.md` | **每案一个 Markdown**（635 个），含案件信息、法宝链接与判决书全文，可直接在 GitHub 网页阅读 |
 | `data/cases.csv` / `data/cases.json` | 案件索引结构化数据 |
 | `raw/case_index_ocr.txt` | 原书索引页 OCR 原文（供核对） |
 
