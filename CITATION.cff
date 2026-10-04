@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "如果本数据集对你的研究有帮助，请按以下格式引用。If you use this dataset, please cite it as below."
+title: "中国行政诉讼案例数据集：《行政诉讼法》(何海波 第三版) 案件索引与裁判文书全文"
+abstract: >-
+  从《行政诉讼法》（第三版，何海波）书末《案例索引》整理的 635 个行政案件，
+  并逐案检索到 425 篇对应裁判文书（其中 417 篇含全文），提供 JSONL 与 Markdown 两种格式。
+type: dataset
+authors:
+  - alias: thu-lawyer
+    name: thu-lawyer
+repository-code: "https://github.com/thu-lawyer/xingzheng-susongfa-case-index"
+url: "https://github.com/thu-lawyer/xingzheng-susongfa-case-index"
+license: CC-BY-NC-4.0
+keywords:
+  - 行政诉讼
+  - 裁判文书
+  - 案例检索
+  - 计算法学
+  - LegalNLP
+  - administrative litigation
+  - Chinese court judgments
+  - legal dataset
+date-released: "2026-10-04"
