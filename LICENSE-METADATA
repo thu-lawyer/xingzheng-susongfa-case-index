@@ -1,0 +1,33 @@
+# 元数据许可 / Metadata License
+
+本仓库中的**案件索引与结构化元数据** —— 包括 `data/cases.csv`、`data/cases.json`，
+`data/pkulaw_results.json` 中的检索元数据，以及每条记录的
+**案名 / 分类 / 原书页码 / 案号 / 法院 / 审结日期 / 文书类型 / 参照级别**
+等字段 —— 由 thu-lawyer 整理，依 **CC0 1.0 通用（公共领域贡献）** 释放。
+
+To the extent possible under law, thu-lawyer has waived all copyright and
+related or neighboring rights to the curated case index and structured
+metadata in this repository. This work is published from: China.
+
+<https://creativecommons.org/publicdomain/zero/1.0/>
+
+---
+
+## 不在本许可范围内的部分
+
+- **裁判文书全文**（`data/judgments.jsonl` 的 `fulltext` 字段、`cases/*.md` 中的文书正文）：
+  依《中华人民共和国著作权法》第五条，具有司法性质的文件不属于著作权保护对象；
+  但其文本采集自北大法宝，其服务条款可能限制再分发。**商业使用请自行取得授权。**
+- 因此仓库根目录的 [`LICENSE`](LICENSE)（CC BY-NC 4.0）对本仓库整体仍然适用。
+  本文件的作用只是把「可自由复用的那一层」单独标出来，让索引结构能被无摩擦地
+  引用、并入其他语料库或数据库。
+
+## 为什么这样拆
+
+索引与元数据是本仓库**真正的智力整理成果**，也是最有复用价值的部分：它可以被
+并入检索系统、类案工具、教学材料或别的数据集，而不牵涉裁判文书本身的来源限制。
+把它放在 CC0 下，是为了让「复用索引」这件事不需要任何许可沟通。
+
+## 建议引用
+
+见仓库根目录的 [`CITATION.cff`](CITATION.cff) 与 README 的「引用」一节。
